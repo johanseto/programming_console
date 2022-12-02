@@ -1,0 +1,9 @@
+/* CSS for ProgrammingConsoleXBlock */
+
+.programming_console_block .count {
+    font-weight: bold;
+}
+
+.programming_console_block p {
+    cursor: pointer;
+}
